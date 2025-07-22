@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ### 2. Run the Dashboard
 ```bash
 # Run the Python script
-python netflix_dashboard.py
+python netflix_dashboard.ipynb
 
 # Or run in Jupyter Notebook
 jupyter notebook
@@ -91,7 +91,7 @@ File: netflix-data.csv (included in repository)
 ## 📁 Project Structure
 ```
 netflix-analytics/
-├── netflix_dashboard.py      # Main dashboard script
+├── netflix_dashboard.ipynb     # Main dashboard script
 ├── requirements.txt          # Python dependencies
 ├── README.md                # This file
 ├── netflix-data.csv         # Optional Netflix dataset
