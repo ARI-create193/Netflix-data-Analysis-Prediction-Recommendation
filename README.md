@@ -77,7 +77,7 @@ The Gradio interface will automatically open in your browser at `http://127.0.0.
 - rating, duration, listed_in (genres)
 File: netflix-data.csv (included in repository)
 
-**Optional**: Upload your own Netflix dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+**Source**: [Kaggle - Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## 🛠️ Technologies Used
 - **Python** - Main programming language
