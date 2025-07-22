@@ -94,10 +94,11 @@ netflix-analytics/
 ├── netflix_dashboard.py      # Main dashboard script
 ├── requirements.txt          # Python dependencies
 ├── README.md                # This file
-├── netflix_data.csv         # Optional Netflix dataset
+├── netflix-data.csv         # Optional Netflix dataset
 └── screenshots/             # Dashboard screenshots
 ```
 
 ## 📧 Contact
-*Your Name* - youremail@gmail.com
-**GitHub**: [Netflix Data Analysis Dashboard](https://github.com/yourusername/netflix-analytics)
+*Aryan Kaminwar* - aryankaminwar@gmail.com
+
+**GitHub**: [ Netflix Data Analysis-Prediction-Recommendation Dashboard](https://github.com/yourusername/netflix-analytics)
