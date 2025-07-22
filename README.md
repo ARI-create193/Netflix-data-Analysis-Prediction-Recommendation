@@ -101,4 +101,4 @@ netflix-analytics/
 ## 📧 Contact
 *Aryan Kaminwar* - aryankaminwar@gmail.com
 
-**GitHub**: [ Netflix Data Analysis-Prediction-Recommendation Dashboard](https://github.com/yourusername/netflix-analytics)
+**GitHub**: [ Netflix Data Analysis-Prediction-Recommendation Dashboard](https://github.com/ARI-create193/Netflix-data-Analysis-Prediction-Recommendation-Dashboard)
