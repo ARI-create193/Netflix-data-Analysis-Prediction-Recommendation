@@ -49,13 +49,25 @@ The Gradio interface will automatically open in your browser at `http://127.0.0.
 
 ### 🌍 Geographic Analysis
 - **Countries Analysis**: Top content-producing countries
-- **Directors Analysis**: Most prolific directors
+- **Directors Analysis (Enhanced)**: **Top 10 directors** with most Netflix content
 - Visual charts showing global content distribution
 
-### 🎭 Genre Analysis
-- Comprehensive genre breakdown
-- Popular content categories
-- Genre frequency analysis with visualizations
+### 🎭 Genre Analysis (Enhanced)
+- **Enhanced genre breakdown** with genre count per movie/content
+- **Top genre identification** and statistics
+- **Average genres per content** calculation
+- **Genre count distribution** analysis (how many titles have 1, 2, 3+ genres)
+- Popular content categories with advanced metrics
+- Genre frequency analysis with comprehensive visualizations
+
+### 🔍 Movie Details Lookup (NEW)
+- **Individual movie/show analysis** by entering any title
+- **Genre count extraction** - counts exactly how many genres each content has
+- **Duration extraction in minutes** from any format (movies/TV seasons)
+- **Content categorization** by duration (Short/Standard/Long/Epic)
+- **Comprehensive metadata analysis** (director, country, rating, release year)
+- **Similar content finder** based on genre overlap
+- **Content age calculation** and watch time analysis
 
 ### 🤖 ML: Success Prediction
 - Train Random Forest model for content success prediction
